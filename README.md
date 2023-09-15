@@ -50,10 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/unev-dev/unev-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/unev-dev/count.svg?"  />
 </div>
